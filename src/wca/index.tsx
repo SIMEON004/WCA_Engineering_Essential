@@ -7,6 +7,7 @@ const WCA = () => {
     <div>Branch_B</div>
     <div>Branch_A</div>
     <div>Added for config</div>
+    <div>Added for config B</div>
     </>
   )
 }
